@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chris Hess, PhD Student"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
