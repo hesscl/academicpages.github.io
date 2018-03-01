@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.A. in Political Science, Louisiana State University, 2013
+  * with College Honors
+* B.S. in Psychology, Louisiana State University, 2013
+* M.A in Sociology, University of Washington, 2016
+* Ph.D in Sociology, University of Washington, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018: Research Assistant
+  * University of Washington Center for Studies in Demography and Ecology
+  * Duties included: Supporting CSDE Data Collaborative, continued analysis of Seattle-King County rental housing markets
+  * Supervisor: Kyle Crowder
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017: Research Assistant
+  * University of Washington
+  * Duties included: Compiling rental data on Seattle housing market, establishing ETL process and analyses for scraped web data about listings
+  * Supervisor: Kyle Crowder
+
+* 2016: Research Assistant
+  * University of Washington
+  * Duties included: Merging public housing authority administrative data, analyzing variations in mobility frequency and outcomes
+  * Supervisor: Kyle Crowder
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* Statistics
+  * Applied regression
+  * Spatial data analysis
+  * Panel data analysis
+* Data Visualization
+  * ggplot
+  * htmlwidgets
+  * base
 
 Publications
 ======
@@ -56,4 +66,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
+* 2017
+  * Graduate Student Association Faculty Meeting Representative
+  * Graduate Student Association Social Committee
