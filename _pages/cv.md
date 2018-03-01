@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * 2018: Research Assistant
-  * University of Washington Center for Studies in Demography and Ecology
+  * UW Center for Studies in Demography and Ecology
   * Duties included: Supporting CSDE Data Collaborative, continued analysis of Seattle-King County rental housing markets
   * Supervisor: Kyle Crowder
 
@@ -36,15 +36,18 @@ Work experience
   
 Skills
 ======
-* R
+
 * Statistics
-  * Applied regression
-  * Spatial data analysis
+  * Applied regression using maximum likelihood estimation
+  * Spatial data analysis and mapping
   * Panel data analysis
+* Software
+  * R
+  * Stata
+  * Excel
 * Data Visualization
-  * ggplot
-  * htmlwidgets
-  * base
+  * Static graphics using `ggplot2`, `lattice` and `base`
+  * Interactive graphics using `htmlwidgets` and `shiny`
 
 Publications
 ======
