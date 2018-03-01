@@ -1,9 +1,9 @@
 ---
 title: "Light-rail Investment in Seattle: Gentrification Pressures and Trends in Neighborhood Ethnoracial Composition"
 collection: publications
-permalink: /publication/2018-1-01-light-rail-in-seattle-uar
+permalink: /publication/2018-01-01-light-rail-in-seattle-uar
 excerpt: 'This paper is about trends in neighborhood composition near SoundTransit's Link'
-date: 2018-1-01
+date: 2018-01-01
 venue: 'Urban Affairs Review'
 paperurl: 
 citation: 'Hess, Chris. (2018). &quot;Light-rail Investment in Seattle: Gentrification Pressures and Trends in Neighborhood Ethnoracial Composition.&quot; <i>Urban Affairs Review 1</i>. (Forthcoming).'
