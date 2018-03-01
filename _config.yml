@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Chris Hess"
   avatar           : "profile.png"
-  bio              : "PhD Student in Sociology and Demography"
+  bio              : "PhD Student"
   location         : "Seattle, WA"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  employer         : "University of Washington"
+  googlescholar    : 
+  email            : "mailto://hesscl@uw.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3005-7780?lang=en"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
