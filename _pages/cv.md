@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+
 * B.A. in Political Science, Louisiana State University, 2013
   * with College Honors
 * B.S. in Psychology, Louisiana State University, 2013
@@ -19,6 +20,7 @@ Education
 
 Work experience
 ======
+
 * 2018: Research Assistant
   * UW Center for Studies in Demography and Ecology
   * Duties included: Supporting CSDE Data Collaborative, continued analysis of Seattle-King County rental housing markets
