@@ -2,7 +2,7 @@
 title: "Light-rail in Seattle"
 collection: publications
 permalink: /publication/2018-01-01-light-rail-in-seattle-1
-excerpt: 'This paper analyzes neighborhood composition near Seattle's light rail'
+excerpt: 'This paper analyzes neighborhood composition near Link light-rail'
 date: 2018-03-01
 venue: 'Urban Affairs Review'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
