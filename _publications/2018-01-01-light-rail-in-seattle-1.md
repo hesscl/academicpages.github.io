@@ -1,5 +1,5 @@
 ---
-title: "Light-rail in Seattle"
+title: "Light-rail Investment in Seattle: Gentrification Pressures and Trends in Neighborhood Ethnoracial Composition"
 collection: publications
 permalink: /publication/2018-01-01-light-rail-in-seattle-1
 excerpt: 'This paper analyzes neighborhood composition near Link light-rail'
