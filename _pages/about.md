@@ -10,10 +10,10 @@ redirect_from:
 
 I'm a 4th-year graduate student in Sociology and Demography at the University of Washington. My research interests center around residential segregation, urban growth and place-based inequalities. I currently have work in publication at _Urban Affairs Review_. My work has a quantiative focus, and I am a big proponent of the R language for statistical analysis and data visualization. I ❤ ggplot2.
 
-My dissertation takes on the importance of suburban poverty for changing forms of racial/ethnic inequalities in neighborhood context. Throughout this work, I quantitatively analyze micro- and macro-dynamics related to rising neighborhood poverty rates and the overall concentration of poverty within different types of suburbs. These analyses draw on Census data and the Panel Study of Income Dynamics [(PSID)](http://psid.org). 
+My dissertation investigates the consequences of rising suburban poverty for continued racial and ethnic inequalities in neighborhood context. The analyses of this work draw on Census data and the Panel Study of Income Dynamics [(PSID)](http://psid.org). 
 
 The chapters of this work focus on:
   1. the metropolitan characteristics associated with trends of rising neighborhood poverty rates and concentration of poverty
-  2. the household-level mechanisms through which we observe disparities in exposure to neighborhood poverty in suburbs 
-  3. the socioeconomic implications of living in poor suburban neighborhoods (relative to other suburban neighborhoods and also poor central-city neighborhoods).
+  2. the household-level mechanisms that explain racial and ethnic disparities in exposure to suburban neighborhood poverty 
+  3. the socioeconomic implications of living in poor suburban neighborhoods (relative to other suburban neighborhoods and also poor central-city neighborhoods)
 
