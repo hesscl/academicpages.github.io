@@ -265,6 +265,8 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  
+plugins:
   - jemoji
 
 
