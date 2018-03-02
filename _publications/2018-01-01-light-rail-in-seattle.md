@@ -1,10 +1,10 @@
 ---
 title: "Light-rail Investment in Seattle"
 collection: publications
-permalink: /publication/2018-01-01-light-rail-in-seattle-uar
+permalink: /publication/2018-01-01-light-rail-in-seattle
 excerpt: 'This paper is about trends in neighborhood composition near SoundTransit's Link'
-date: 2018-01-01
-venue: 'Urban Affairs Review'
+date: 2009-10-01
+venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
