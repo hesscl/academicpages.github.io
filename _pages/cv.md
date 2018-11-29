@@ -16,7 +16,7 @@ Education
   * with College Honors
 * B.S. in Psychology, Louisiana State University, 2013
 * M.A in Sociology, University of Washington, 2016
-* Ph.D in Sociology, University of Washington, 2019 (expected)
+* Ph.D in Sociology, University of Washington, 2020 (expected)
 
 Work experience
 ======
@@ -35,7 +35,7 @@ Work experience
   * University of Washington
   * Duties included: Merging public housing authority administrative data, analyzing variations in mobility frequency and outcomes
   * Supervisor: Kyle Crowder
-  
+
 Skills
 ======
 
@@ -56,19 +56,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 
