@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 5th-year graduate student in Sociology and Demography at the University of Washington. My research interests center around residential segregation, urban growth and place-based inequalities. I have published research in _Urban Affairs Review_. My work has a quantitative focus, and I am a big proponent of the R language for statistical analysis and data visualization. I ❤ R and ggplot2.
+I'm a 5th-year graduate student in Sociology and Demography at the University of Washington. My research interests center around residential segregation, urban growth and place-based inequalities. I have published research in _Urban Affairs Review_. My work has a quantitative focus, and I am a big proponent of the R language for statistical analysis and data visualization. I ❤ ggplot2.
 
 My dissertation investigates the importance of rising suburban poverty for processes of residential mobility and neighborhood segregation. Empirical analyses draw on Census data and the Panel Study of Income Dynamics [(PSID)](http://psid.org).
 
