@@ -13,6 +13,6 @@ I'm a 5th-year graduate student in Sociology and Demography at the University of
 My dissertation investigates the importance of rising suburban poverty for processes of residential mobility and neighborhood segregation. Empirical analyses draw on Census data and the Panel Study of Income Dynamics [(PSID)](http://psid.org).
 
 The chapters of this work focus on:
-  1. the metropolitan characteristics and forms of residential segregation associated with trends of rising neighborhood poverty rates
-  2. how residential mobility and "in place" neighborhood change both explain racial and ethnic disparities in exposure to suburban neighborhood poverty
-  3. the neighborhood disadvantages in poor suburban neighborhoods (relative to other suburban neighborhoods and also poor central-city neighborhoods)
+  1. describing the spatial structure of metropolitan areas using location types for city, older suburb, newer suburb and rural areas
+  2. decomposing metropolitan segregation by race and ethnicity into components for segregation within or between locations of a metropolitan area.
+  3. modeling how stratified patterns of suburban residential mobility underpin racial and ethnic disparities in exposure to suburban neighborhood poverty
