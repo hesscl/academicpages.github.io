@@ -76,6 +76,9 @@ Teaching
 Service and leadership
 ======
 
+* 2019
+  * Representative to the Department Chair
+
 * 2017
   * Graduate Student Association Faculty Meeting Representative
   * Graduate Student Association Social Committee
