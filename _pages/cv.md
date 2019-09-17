@@ -16,12 +16,16 @@ Education
   * with College Honors
 * B.S. in Psychology, Louisiana State University, 2013
 * M.A in Sociology, University of Washington, 2016
-* Ph.D in Sociology, University of Washington, 2020 (expected)
+* Ph.D in Sociology, University of Washington, 2019
 
 Work experience
 ======
 
-* 2018: Research Assistant
+* 2019: Predoctoral Instructor
+  * University of Washington, Department of Sociology
+  * Course taught: SOC 300: Foundations of Social Inquiry
+
+* 2018-2019: Research Assistant
   * UW Center for Studies in Demography and Ecology
   * Duties included: Supporting CSDE Data Collaborative, continued analysis of Seattle-King County rental housing markets
   * Supervisor: Kyle Crowder
