@@ -3,7 +3,7 @@ title: "Does Hypersegregation Matter for Black-White Socioeconomic Disparities?"
 collection: publications
 permalink: /publication/2019-hypersegregation-1
 excerpt: 'Hypersegregation and trends in black-white socioeconomic disparities'
-date: 2018-11-01
+date: 2019-11-01
 venue: 'Demography'
 paperurl: https://doi.org/10.1007/s13524-019-00825-y
 citation: 
