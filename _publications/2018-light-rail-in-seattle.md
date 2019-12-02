@@ -2,10 +2,9 @@
 title: "Light-rail Investment in Seattle: Gentrification Pressures and Trends in Neighborhood Ethnoracial Composition"
 collection: publications
 permalink: /publication/2018-light-rail-in-seattle
-excerpt: 'This paper analyzes neighborhood composition near Link light-rail'
 date: 2018-04-01
 venue: 'Urban Affairs Review'
-paperurl: https://doi.org/10.1177%2F1078087418758959
+paperurl: hesscl.com/publications/hesscl-2018-uar.pdf
 citation:
 ---
 
