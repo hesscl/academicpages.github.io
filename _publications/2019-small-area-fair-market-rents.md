@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-small-area-fair-market-rents
 date: 2019-11-01
 venue: 'Cityscape'
-paperurl: hesscl.com/publications/hess-2019-cityscape.pdf
+paperurl: ./hess-2019-cityscape.pdf
 citation:
 ---
 

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-is-geography-destiny
 date: 2019-11-01
 venue: 'Social Science Research'
-paperurl: hesscl.com/publications/leibbrand-2019-ssr.pdf
+paperurl: ./leibbrand-2019-ssr.pdf
 citation:
 ---
 

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-hypersegregation
 date: 2019-11-01
 venue: 'Demography'
-paperurl: hesscl.com/publications/hess-2019-demography.pdf
+paperurl: ./hess-2019-demography.pdf
 citation:
 ---
 
