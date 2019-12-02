@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-light-rail-in-seattle
 date: 2018-04-01
 venue: 'Urban Affairs Review'
-paperurl: ./hesscl-2018-uar.pdf
+paperurl: ./hess-2018-uar.pdf
 citation:
 ---
 
