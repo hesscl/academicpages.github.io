@@ -1,7 +1,7 @@
 ---
 title: "Light-rail Investment in Seattle: Gentrification Pressures and Trends in Neighborhood Ethnoracial Composition"
 collection: publications
-permalink: /publication/2018-light-rail-in-seattle
+permalink: /publications/2018-light-rail-in-seattle
 date: 2018-04-01
 venue: 'Urban Affairs Review'
 paperurl: ./hess-2018-uar.pdf

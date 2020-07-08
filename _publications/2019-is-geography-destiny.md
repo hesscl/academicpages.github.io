@@ -1,7 +1,7 @@
 ---
 title: "Is geography destiny? Disrupting the relationship between segregation and neighbohrood outcomes"
 collection: publications
-permalink: /publication/2019-is-geography-destiny
+permalink: /publications/2019-is-geography-destiny
 date: 2019-11-01
 venue: 'Social Science Research'
 paperurl: ./leibbrand-2019-ssr.pdf

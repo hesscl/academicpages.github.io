@@ -1,7 +1,7 @@
 ---
 title: "Comparing Small Area Fair Market Rents With Other Rental Measures Across Diverse Housing Markets"
 collection: publications
-permalink: /publication/2019-small-area-fair-market-rents
+permalink: /publications/2019-small-area-fair-market-rents
 date: 2019-11-01
 venue: 'Cityscape'
 paperurl: ./hess-2019-cityscape.pdf
