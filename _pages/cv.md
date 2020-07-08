@@ -21,6 +21,9 @@ Education
 Work experience
 ======
 
+* 2019-2020: Postdoctoral Fellow
+  - Rutgers University—Camden, Center for Urban Research and Education
+
 * 2019: Predoctoral Instructor
   * University of Washington, Department of Sociology
   * Course taught: SOC 300: Foundations of Social Inquiry
