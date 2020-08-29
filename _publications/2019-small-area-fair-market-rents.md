@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2019-small-area-fair-market-rents
 date: 2019-11-01
 venue: 'Cityscape'
-paperurl: ./hess-2019-cityscape.pdf
+paperurl: 'https://www.huduser.gov/portal/periodicals/cityscpe/vol21num3/article8.html'
 citation: "Hess, C., Walter, R. J., Acolin, A., & Chasins, S. (2019). Comparing Small Area Fair Market Rents With Other Rental Measures Across Diverse Housing Markets. Cityscape, 21(3), 159-186."
 ---
 

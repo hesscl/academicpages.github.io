@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2019-is-geography-destiny
 date: 2019-11-01
 venue: 'Social Science Research'
-paperurl: ./leibbrand-2019-ssr.pdf
+paperurl: 'https://doi.org/10.1016/j.ssresearch.2019.102396'
 citation: "Leibbrand, C., Gabriel, R., Hess, C., & Crowder, K. (2020). Is geography destiny? Disrupting the relationship between segregation and neighbohrood outcomes. Social Science Research, 86, 102396."
 ---
 

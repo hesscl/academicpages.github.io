@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2019-hypersegregation
 date: 2019-11-01
 venue: 'Demography'
-paperurl: ./hess-2019-demography.pdf
+paperurl: 'https://doi.org/10.1007/s13524-019-00825-y'
 citation: "Hess, C., Gabriel, R., Leibbrand, C., & Crowder, K. (2019). Does Hypersegregation Matter for Black-White Socioeconomic Disparities?. Demography, 56(6), 2169-2191."
 ---
 

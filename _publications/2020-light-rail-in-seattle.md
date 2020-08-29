@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2020-light-rail-in-seattle
 date: 2020-04-01
 venue: 'Urban Affairs Review'
-paperurl: ./hess-2020-uar.pdf
+paperurl: 'https://doi.org/10.1177%2F1078087418758959'
 citation: "Hess, C. L. (2020). Light-rail investment in Seattle: Gentrification pressures and trends in neighborhood ethnoracial composition. Urban Affairs Review, 56(1), 154-187."
 ---
 
