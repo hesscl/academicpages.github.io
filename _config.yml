@@ -82,8 +82,8 @@ author:
   avatar           : "profile.jpg"
   bio              : "Postdoctoral Associate"
   location         : "Ithaca, NY"
-  employer         :
-  googlescholar    :
+  employer         : "Cornell University"
+  googlescholar    : "https://scholar.google.com/citations?user=v3Db_L4AAAAJ&hl=en"
   email            : "mailto://clh285@cornell.edu"
   uri              :
   bitbucket        :
