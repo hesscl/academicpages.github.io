@@ -14,8 +14,3 @@ A significant share of my ongoing research harnesses web data scraped from onlin
   1. assess the degree to which different types of neighborhoods are more or less represented online,
   2. measure differences in discourse about housing between neighborhoods and
   3. describe how different sources capture different market segments.
-
-My dissertation investigated the importance of rising suburban poverty for processes of residential mobility and neighborhood segregation. Empirical analyses draw on Census data and the Panel Study of Income Dynamics [(PSID)](https://psid.org). The chapters of this work focused on:
-  1. describing the spatial structure of metropolitan areas and neighborhood poverty using location types for city, older suburb, newer suburb and rural areas
-  2. decomposing metropolitan segregation by race and ethnicity into components for segregation within or between locations of a metropolitan area.
-  3. modeling how stratified patterns of suburban residential mobility underpin racial and ethnic disparities in exposure to suburban neighborhood poverty
