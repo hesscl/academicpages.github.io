@@ -8,4 +8,4 @@ date: 2021-04-01
 location: "Zoom"
 ---
 
-See [_here_](https://drive.google.com/file/d/1kxl4q8rls99HYY9nCEqihV2KfScEo0HS/view?usp=sharing) for a Google Drive link to the (very large) slide deck. Acrobat Reader is needed to view the animations!
+See [++here++](https://drive.google.com/file/d/1kxl4q8rls99HYY9nCEqihV2KfScEo0HS/view?usp=sharing) for a Google Drive link to the (very large) slide deck. Acrobat Reader is needed to view the animations!
