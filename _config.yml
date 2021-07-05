@@ -178,7 +178,7 @@ collections:
   etc:
     output: true
     permalink: /:collection/:path/
-  talks:
+  workshops:
     output: true
     permalink: /:collection/:path/
 
@@ -233,7 +233,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: workshops
     values:
       layout: talk
       author_profile: true
