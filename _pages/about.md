@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Postdoctoral Associate at Cornell University in the Department of Policy Analysis and Management, having recently received my Ph.D in Sociology at the University of Washington. My research interests focus on residential segregation, housing markets and the changing spatial distribution of place-based inequalities. I have published research in peer-reviewed outlets like _Urban Affairs Review_, _Demography_ and _Cityscape_. My work has a quantitative focus, and I am a big proponent of the R language for statistical analysis and data visualization. I ❤ ggplot2.
+I'm currently a Postdoctoral Associate at Cornell University in the Department of Policy Analysis and Management, having recently received my Ph.D in Sociology at the University of Washington. My research interests focus on residential segregation, housing markets and the changing spatial distribution of place-based inequalities, and my work has appeared in peer-reviewed outlets like _Demography_, _Environment and Planning A_ and _Social Forces_. I am a data omnivore and a big proponent of the R language for statistical analysis and data visualization. I ❤ ggplot2.
 
-My dissertation investigated the importance of rising suburban poverty for processes of residential mobility and neighborhood segregation. Empirical analyses draw on Census data and the Panel Study of Income Dynamics [(PSID)](http://psid.org).
+A significant share of my ongoing research harnesses web data scraped from online rental housing platforms like Craigslist to understand the role of these information exchanges within the modern housing search process and extract policy-relevant information about rental housing conditions across the United States. This research is enabled by a unique data collection infrastructure based on thousands of containerized [Helena](https://helena-lang.org) scrapers running within a Kubernetes cluster. My colleagues and I have used these data to:
+  1. assess the degree to which different types of neighborhoods are more or less represented online,
+  2. measure differences in discourse about housing between neighborhoods and
+  3. describe how different sources capture different market segments.
 
-The chapters of this work focus on:
+My dissertation investigated the importance of rising suburban poverty for processes of residential mobility and neighborhood segregation. Empirical analyses draw on Census data and the Panel Study of Income Dynamics [(PSID)](https://psid.org). The chapters of this work focused on:
   1. describing the spatial structure of metropolitan areas and neighborhood poverty using location types for city, older suburb, newer suburb and rural areas
   2. decomposing metropolitan segregation by race and ethnicity into components for segregation within or between locations of a metropolitan area.
   3. modeling how stratified patterns of suburban residential mobility underpin racial and ethnic disparities in exposure to suburban neighborhood poverty
