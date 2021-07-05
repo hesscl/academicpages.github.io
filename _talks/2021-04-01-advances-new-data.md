@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2021-04-01
 venue: "Advances in New Data and Big Data for Aging Research Series co-sponsored by NIA research centers at Syracuse University, University of Wisconsin, University of Pennsylvania, University of Southern California and University of Texas--Austin"
-date: 2019-05-23
+date: 2019-04-01
 location: "Zoom"
 ---
 
