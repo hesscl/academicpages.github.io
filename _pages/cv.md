@@ -12,36 +12,43 @@ redirect_from:
 Education
 ======
 
-* B.A. in Political Science, Louisiana State University, 2013
+* 2019: Ph.D in Sociology, University of Washington
+* 2016: M.A in Sociology, University of Washington
+* 2013: B.A. in Political Science, Louisiana State University
   * with College Honors
-* B.S. in Psychology, Louisiana State University, 2013
-* M.A in Sociology, University of Washington, 2016
-* Ph.D in Sociology, University of Washington, 2019
+* 2013: B.S. in Psychology, Louisiana State University
 
-Work experience
+
+Employment
 ======
+
+* 2020-present: Postdoctoral Associate in Big Data/Data Science
+  - Cornell University, Department of Policy Analysis and Management
 
 * 2019-2020: Postdoctoral Fellow
   - Rutgers University—Camden, Center for Urban Research and Education
 
-* 2019: Predoctoral Instructor
-  * University of Washington, Department of Sociology
-  * Course taught: SOC 300: Foundations of Social Inquiry
 
-* 2018-2019: Research Assistant
-  * UW Center for Studies in Demography and Ecology
-  * Duties included: Supporting CSDE Data Collaborative, continued analysis of Seattle-King County rental housing markets
-  * Supervisor: Kyle Crowder
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-* 2017: Research Assistant
-  * University of Washington
-  * Duties included: Compiling rental data on Seattle housing market, establishing ETL process and analyses for scraped web data about listings
-  * Supervisor: Kyle Crowder
 
-* 2016: Research Assistant
-  * University of Washington
-  * Duties included: Merging public housing authority administrative data, analyzing variations in mobility frequency and outcomes
-  * Supervisor: Kyle Crowder
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
 
 Skills
 ======
@@ -50,34 +57,22 @@ Skills
   * Applied regression using maximum likelihood estimation
   * Spatial data analysis and mapping
   * Panel data analysis
+
 * Software
   * R
   * Stata
   * Excel
+
 * Data Visualization
   * Static graphics using `ggplot2`, `lattice` and `base`
   * Interactive graphics using `htmlwidgets` and `shiny`
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Service and leadership
 ======
+
+* 2021
+  * Computational Policy Working Group coordinator
 
 * 2019
   * Representative to the Department Chair
